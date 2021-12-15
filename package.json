@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/J-pilon/Hacker_news#readme",
   "devDependencies": {
+    "@tsconfig/node14": "^1.0.1",
     "css-loader": "^6.5.1",
     "sass": "^1.45.0",
     "sass-loader": "^12.4.0",
